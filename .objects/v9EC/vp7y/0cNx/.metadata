@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Amazon.com. Spend less. Smile more.",
+  "Type": "Screen",
+  "Id": "0cNxTS5BYUujWQZO6M37MA",
+  "Reference": "FJ6-G1nqjEGRsjFr_29IWA/0cNxTS5BYUujWQZO6M37MA",
+  "ParentRef": "FJ6-G1nqjEGRsjFr_29IWA/vp7yOKQrykOWjEvsq4GDHQ",
+  "Created": "2025-02-10T08:08:08.510247Z",
+  "Updated": "2025-02-10T08:08:08.510247Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="b6XWUc3jYkGTdHHEmhmMqw" Reference="FJ6-G1nqjEGRsjFr_29IWA/GpSftFJGlEyTtY7QMwjsyA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.com" CVScreenId="326e6dd7-a202-4d86-869a-d18c80a08ae1" DesignTimeRectangle="294, 158, 620, 38" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='twotabsearchtextbox' tag='INPUT' aaname='Search Amazon' /&gt;" Guid="d58b5f83-15ef-4b2f-b40c-58dddd4eaf47" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com. Spend less. Smile more.' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="326e6dd7-a202-4d86-869a-d18c80a08ae1" CvTextArea="252, 171, 16, 12" CvTextArgument="All" CvType="Text" DesignTimeRectangle="253, 161, 19, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='nav-search-label-id' tag='SPAN' type='' class='nav-search-label nav-progressive-content' aaname='All' check:innerText='All' /&gt;" Guid="54c2eb6f-c3da-406a-abee-e0df170c57d6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0ec7270f97353fae99dacc668195ccc0.png" xmlns="">0JcCutVujG0q5FtN3x6l_iA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

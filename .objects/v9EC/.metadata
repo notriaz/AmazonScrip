@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Amazon.com. Spend less. Smile more.",
+  "Type": "App",
+  "Id": "v9ECTVzk1USEvUck1X84ag",
+  "Reference": "FJ6-G1nqjEGRsjFr_29IWA/v9ECTVzk1USEvUck1X84ag",
+  "Created": "2025-02-10T08:08:08.2152036Z",
+  "Updated": "2025-02-10T08:08:08.2152036Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
